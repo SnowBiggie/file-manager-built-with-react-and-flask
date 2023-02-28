@@ -1,0 +1,7 @@
+before you start the sever run:
+    source: env/bin/activate
+    to avtivate the environment
+
+to run the server:
+    go to the directory where server.py is 
+    run python3 server.py
